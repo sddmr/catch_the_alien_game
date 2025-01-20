@@ -16,7 +16,7 @@ Welcome to **Catch the Alien**, a fun and interactive game built with Python's T
 ## How to Play
 1. Clone this repository or download the project files.
 2. Make sure you have Python installed on your system.
-3. Run the `catch_the_alien.py` file.
+3. Run the `catch_the_alien_game.py` file.
 4. Click on the alien as it moves to random positions.
 5. Earn points for each successful click before the timer runs out.
 
@@ -25,7 +25,7 @@ Welcome to **Catch the Alien**, a fun and interactive game built with Python's T
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/catch-the-alien.git
+   git clone https://github.com/sddmr/catch-the-alien_game.git
    ```
 
 2. Navigate to the project folder:
@@ -45,13 +45,11 @@ Welcome to **Catch the Alien**, a fun and interactive game built with Python's T
 ## Screenshots
 
 ### Gameplay
-![Gameplay Screenshot](![image](https://github.com/user-attachments/assets/4362607e-8e71-4dd0-bd3b-22458ee5fd1b))
+![Gameplay Screenshot](![image]()
 
 ### Game Over
-![Game Over Screenshot](![image](https://github.com/user-attachments/assets/d56de775-3eff-44a2-926c-5e3a3b97e171)
-)
+![Game Over Screenshot](![image]()
 
-*Add your screenshots to the `images` folder in your project directory and update the paths above.*
 
 ---
 
