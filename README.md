@@ -45,10 +45,10 @@ Welcome to **Catch the Alien**, a fun and interactive game built with Python's T
 ## Screenshots
 
 ### Gameplay
-![Gameplay Screenshot](game_image/game.png)
+![Gameplay Screenshot](catch_the_alien_game/game_image/game.png)
 
 ### Game Over
-![Game Over Screenshot](game_image/end.png)
+![Game Over Screenshot](catch_the_alien_game/game_image/end.png)
 
 
 ---
